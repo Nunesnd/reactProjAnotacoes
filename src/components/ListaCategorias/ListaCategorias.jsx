@@ -18,3 +18,5 @@ class ListaCategorias extends Component {
 }
  
 export default ListaCategorias;
+
+//inserindo um comentário como teste
